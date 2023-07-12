@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VetSoft_Aldera.Views.KundenEingabe"
+              xmlns:viewmodels="clr-namespace:VetSoft_Aldera.ViewModels">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="PrimaryColor">#007ACC</Color>
+            <Style TargetType="Entry">
+                <Setter Property="BackgroundColor" Value="#F0F0F0" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="PlaceholderColor" Value="#999999" />
+            
+                <Setter Property="Margin" Value="0,5" />
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="{StaticResource PrimaryColor}" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="CornerRadius" Value="10" />
+                <Setter Property="Padding" Value="10" />
+                <Setter Property="Margin" Value="0,20" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout>
+        <Entry  Text="{Binding Name}" Placeholder="Name" />
+        <Button  Text="Save" Command="{Binding SaveCommand}" />
+    </StackLayout>
+</ContentPage>

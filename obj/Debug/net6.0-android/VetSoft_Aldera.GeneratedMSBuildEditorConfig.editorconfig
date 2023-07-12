@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VetSoft_Aldera
+build_property.ProjectDir = C:\Users\aa_d_\source\repos\VetSoft_Aldera\
+
+[C:/Users/aa_d_/source/repos/VetSoft_Aldera/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VetSoft_Aldera.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/aa_d_/source/repos/VetSoft_Aldera/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VetSoft_Aldera.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/aa_d_/source/repos/VetSoft_Aldera/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VetSoft_Aldera.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/aa_d_/source/repos/VetSoft_Aldera/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VetSoft_Aldera.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/aa_d_/source/repos/VetSoft_Aldera/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VetSoft_Aldera.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/aa_d_/source/repos/VetSoft_Aldera/Views/KundenEingabe.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VetSoft_Aldera.Views.KundenEingabe.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\KundenEingabe.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\KundenEingabe.xaml
+
+[C:/Users/aa_d_/source/repos/VetSoft_Aldera/Views/KundenView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VetSoft_Aldera.Views.KundenView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\KundenView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\KundenView.xaml
